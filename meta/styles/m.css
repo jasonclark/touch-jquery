@@ -1,3 +1,4 @@
 /*custom styles for jquery mobile*/
+.ui-mobile [data-role="page"] {background-color:#fff;}
 .controls {text-align: center;}
 .controls * {margin: 0 auto;}
